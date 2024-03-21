@@ -1,15 +1,11 @@
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
+const a = 5
+let b = 6
+//a = a+10
+b = b+10
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-<p>HI.</p>
+console.log(a)
+console.log(b)
 
-</body>
-</html>
 
 
 
